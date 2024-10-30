@@ -1,0 +1,5 @@
+# Checks on what happens when the first torpedo fires only, and then runs out.
+GT4500,2,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE

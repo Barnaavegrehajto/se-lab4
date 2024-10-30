@@ -1,0 +1,3 @@
+# Checks if faliure rate is 1, then all fires fail
+GT4500,1,1,1,0
+TORPEDO,SINGLE 
