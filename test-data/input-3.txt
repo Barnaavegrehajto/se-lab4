@@ -1,0 +1,3 @@
+#Checks if the secondary prioritizes if primary is empty
+GT4500,0,0,1,0
+TORPEDO,SINGLE
