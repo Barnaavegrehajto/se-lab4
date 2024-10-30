@@ -1,0 +1,3 @@
+# Checks if firing success is correct when torpedoes are empty
+GT4500,0,0,0,0
+TORPEDO,ALL
